@@ -10,7 +10,7 @@ var dx = 2;
 var dy = -2;
 var ballRadius = 10;
 
-var paddleHeight = 10;
+var paddleHeight = 12;
 var paddleWidth = 75;
 var paddleX = (canvas.width-paddleWidth)/2;
 
